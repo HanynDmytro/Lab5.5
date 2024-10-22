@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Politeh\\AP\\LAB\\pr5\\pr5.5\\pr5.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{738FF37C-27A0-4630-AD59-23A4031D44EE}|pr5.5\\pr5.5.vcxproj|D:\\Politeh\\AP\\LAB\\pr5\\pr5.5\\pr5.5\\pr5.5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{738FF37C-27A0-4630-AD59-23A4031D44EE}|pr5.5\\pr5.5.vcxproj|solutionrelative:pr5.5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68086E91-D8C1-4BFE-A4E6-22F41C6F7336}|UnitTest1\\UnitTest1.vcxproj|D:\\Politeh\\AP\\LAB\\pr5\\pr5.5\\pr5.5\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68086E91-D8C1-4BFE-A4E6-22F41C6F7336}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Politeh\\AP\\LAB\\pr5\\pr5.5\\pr5.5\\pr5.5\\Source.cpp",
+              "RelativeDocumentMoniker": "pr5.5\\Source.cpp",
+              "ToolTip": "D:\\Politeh\\AP\\LAB\\pr5\\pr5.5\\pr5.5\\pr5.5\\Source.cpp",
+              "RelativeToolTip": "pr5.5\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T18:21:45.127Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\Politeh\\AP\\LAB\\pr5\\pr5.5\\pr5.5\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\Politeh\\AP\\LAB\\pr5\\pr5.5\\pr5.5\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T18:33:19.344Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
